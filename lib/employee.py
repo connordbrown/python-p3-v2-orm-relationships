@@ -1,5 +1,6 @@
 # lib/employee.py
 from __init__ import CURSOR, CONN
+# currently not used; might be used in future
 from department import Department
 
 
